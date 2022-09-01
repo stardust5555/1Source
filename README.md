@@ -5,25 +5,22 @@
 This is the desktop view of the homepage:
 
 
-<img src="./public/assets/readmeImages/HomepageDesktop.png" alt="homepage screenshot" width="500px" />
+<img src="https://user-images.githubusercontent.com/103673974/187945723-b2ebd92a-755d-4d50-bd4d-a73ea29ea6a2.png" alt="homepage screenshot" width="500px" />
 
 This is a title page displayed for desktop:
 
 
-<img src="./public/assets/readmeImages/TitleDesktop.png" alt="Title Page Mobile screenshot" width="500px" />
+<img src="https://user-images.githubusercontent.com/103673974/187945779-5cc3b1a4-07eb-4509-a6ec-e9a180c82482.png" alt="Title Page Mobile screenshot" width="500px" />
 
 This is a title page displayed for mobile:
 
-
-<img src="./public/assets/readmeImages/TitleMobile.png" alt="Title Page Mobile screenshot" width="200px" />
- 
+<img src="https://user-images.githubusercontent.com/103673974/187946138-dcf31723-f280-4dd2-90c0-b938d8262b08.png" alt="Title Page Mobile screenshot" width="200px" />
 
 ## COMPONENT TREE
 
 Here’s a breakdown of our component tree
 
-<img src="./public/assets/readmeImages/ComponentTree.png" alt="Component Tree screenshot" width="500px" />
-
+<img src="https://user-images.githubusercontent.com/103673974/187946226-e64e3911-cbdf-4e16-bbb4-1e72d147e119.png" width="500px" />
 
 ## HOW TO RUN THE APP LOCALLY
 
